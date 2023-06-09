@@ -18,7 +18,7 @@
 
 :root {
 	--transparencycolor:			255,255,255;						/* default:	0,0,0																								*/
-	--transparencyalpha:			0.15;						/* default: 0.15				(general darkness of the app)													*/
+	--transparencyalpha:			0.151;						/* default: 0.15				(general darkness of the app)													*/
 	--messagetransparency:			0.5;						/* default: 0.5					(additional shadows behind messages, set to 0 to remove boxes)					*/
 	--guildchanneltransparency:		0.7;						/* default: 0.15				(additional darkness for guild/channel list)									*/
 	--chatinputtransparency:		0.7;						/* default: 0.0					(additional darkness for chat input container)									*/
